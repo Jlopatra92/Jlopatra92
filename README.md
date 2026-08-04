@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, SQL, Git, Excel, Power BI, Tableau**
 
-- 📫 How to reach me **[https://linkedin.com/in/jenniferisaac](https://linkedin.com/in/jenniferisaac)**
+- 📫 How to reach me **[https://linkedin.com/in/isaacjennifer](https://linkedin.com/in/isaacjennifer)**
 
 - ⚡ Fun fact **I love dancing**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Jlopatra92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jlopatra92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/jenniferisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jenniferisaac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/isaacjennifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/isaacjennifer" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/isaacjennifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/isaacjennifer" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jennifer Isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jennifer Isaac" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/jennifer_isaac92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jennifer_isaac92" height="30" width="40" /></a>
