@@ -1,14 +1,14 @@
 # Hi 👋, I'm Jennifer Isaac
 
-### PhD Student in Information Technology · Supply Chain Analytics
+### PhD Student in Information Technology · Concentration in AI
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jlopatra92&label=Profile views&color=0e75b6&style=flat" alt="Jlopatra92" /> </p>
 
-- 🔭 I'm currently working on **"Building foundational SQL and Python skills toward supply chain analytics projects."**
+- 🔭 I'm currently working on **"Building data and product projects that solve supply chain and operations problems."**
 
 - 🌱 I'm currently learning **Python, SQL, Git, AI/ML**
 
-- 👯 I'm looking to collaborate on **Supply chain data projects, or student ambassador community work**
+- 👯 I'm looking to collaborate on **Supply chain data projects, product development projects, or student ambassador community work**
 
 - 🤝 I'm looking for help with **Supply chain management, leadership coaching for first-generation students.**
 
