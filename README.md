@@ -17,7 +17,7 @@
 - 📫 How to reach me **[https://linkedin.com/in/isaacjennifer](https://linkedin.com/in/isaacjennifer)**
 
 - ⚡ Fun fact **I love dancing**
-- 📄 Know about my experiences ** [https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q](https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q)**
+- 📄 Know about my experiences [https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q](https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
