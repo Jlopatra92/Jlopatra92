@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://canva.link/60uxw7mmw9pwk7f](https://canva.link/60uxw7mmw9pwk7f)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1HRynv2F1ZPpz_NmgCERrn0ubd8CvlQCkuYHoQ7vUtiw/edit?usp=sharing](https://docs.google.com/document/d/1HRynv2F1ZPpz_NmgCERrn0ubd8CvlQCkuYHoQ7vUtiw/edit?usp=sharing)**
+- 📄 Know about my experiences ** [https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q](https://1drv.ms/w/c/ef94dcbf05a29416/IQCHHWe47InxSZ4-e6_jH9AFASt9J2h5BEo2iPIsUXO_72Q)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
