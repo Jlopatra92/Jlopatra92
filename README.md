@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jlopatra92&label=Profile views&color=0e75b6&style=flat" alt="Jlopatra92" /> </p>
 
-- 🔭 I'm currently working on **"Building data and product projects that solve supply chain and operations problems."**
+- 🔭 I'm currently working on **Building data and product projects that solve supply chain and operations problems.**
 
 - 🌱 I'm currently learning **Python, SQL, Git, AI/ML**
 
-- 👯 I'm looking to collaborate on **Supply chain data projects, product development projects, or student ambassador community work**
+- 👯 I'm looking to collaborate on **Supply chain data projects, product development projects, or community work**
 
-- 🤝 I'm looking for help with **Supply chain management, leadership coaching for first-generation students.**
+- 🤝 I'm looking for help with **Operations/Product management, User research, and leadership coaching for first-generation students.**
 
 - 💬 Ask me about **Python, SQL, Git, Excel, Power BI, Tableau**
 
