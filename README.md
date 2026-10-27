@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jlopatra92&label=Profile views&color=0e75b6&style=flat" alt="Jlopatra92" /> </p>
 
-- 🔭 I'm currently working on **Building data and product projects that solve supply chain and operations problems.**
+- 🔭 I'm currently working on **Building data and product projects that solve supply chain and operations problems**
 
 - 🌱 I'm currently learning **Python, SQL, Git, AI/ML**
 
